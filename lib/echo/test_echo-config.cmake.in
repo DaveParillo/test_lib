@@ -1,0 +1,6 @@
+@PACKAGE_INIT@
+
+if(NOT TARGET test::test_echo)
+    include(${CMAKE_CURRENT_LIST_DIR}/test_echo-targets.cmake)
+endif()
+

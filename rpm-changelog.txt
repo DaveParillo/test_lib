@@ -1,0 +1,2 @@
+* Wed Nov 18 2020 Dave Parillo <dparillo@forwardslope.com> - 1.0.0-1
+  Initial release.
